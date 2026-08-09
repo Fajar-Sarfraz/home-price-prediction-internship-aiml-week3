@@ -118,3 +118,5 @@ predictions = model.predict(X_new)
 
 
 ![overfitting](https://github.com/Fajar-Sarfraz/home-price-prediction-internship-aiml-week3/blob/388e86922bbecac4b31c710570339098c06f8a32/week%203%20sreenshots/Screenshot%20(74).png)
+
+![Project Screenshot](https://github.com/Fajar-Sarfraz/home-price-prediction-internship-aiml-week3/blob/a68470467634a2ef918fda7148750a8c39b7bf8a/week%203%20sreenshots/Screenshot%20(71).png)
