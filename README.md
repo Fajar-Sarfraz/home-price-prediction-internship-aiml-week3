@@ -107,4 +107,4 @@ predictions = model.predict(X_new)
 ```
 
 ## screenshot
-
+https://github.com/Fajar-Sarfraz/home-price-prediction-internship-aiml-week3/tree/4e18e8e98ed556d238c1c71b5c547b9c1a46afee/week%203%20sreenshots
